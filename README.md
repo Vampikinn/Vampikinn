@@ -2,7 +2,7 @@
 ---
 ***"It's kind of fun to do the impossible."***
 
-✥ I’m currently learning information technology.
+✥ I’m currently learning/studying information technology.
 
 ♀ Pronouns: she/her.
 
