@@ -1,6 +1,6 @@
-### Heyaaa!! Hope you see me soon :]
+### This profile is under construction!! Soon it will be 20% cooler hehe
 
-<!--
+
 **Dud4-J4y/Dud4-J4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
