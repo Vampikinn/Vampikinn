@@ -1,8 +1,10 @@
 ### Heya! I'm Duda :]
-
-**“Laughter is timeless, imagination has no age, dreams are forever.”**
+---
+***"It's kind of fun to do the impossible."***
 
 ✥ I’m currently learning information technology.
+
 ♀ Pronouns: she/her.
+
 ღ Fun fact: I'm also an artist and writter in development!!
 
