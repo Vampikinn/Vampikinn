@@ -1,15 +1,14 @@
-### Hello I'm Eduarda, mostly known as Duda :]
+### Olá eu sou a Eduarda!!
 ---
 
+► Conhecimentos: Java, HTML, computação gráfica e banco de dados
 
-► Knowledge: Java, HTML, computer graphics and database
+► Idiomas: Português e Inglês
 
-► Portuguese and English Speaker
+► Atualmente no Ensino Médio
 
-► Currently at High School
+► Cursando Técnico em Informática na ULBRA São Lucas
 
-► Coursing Technical Computer Science a ULBRA São Lucas
-
-► E-mail for contact: dudahdealmeida29@gmail.com
+► E-mail para contato: dudahdealmeida29@gmail.com
 
 
