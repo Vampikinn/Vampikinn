@@ -1,6 +1,9 @@
 ### Hello I'm Eduarda, mostly known as Duda :]
 ---
 
+
+► Knowledge: Java, HTML, computer graphics and database
+
 ► Portuguese and English Speaker
 
 ► Currently at High School
