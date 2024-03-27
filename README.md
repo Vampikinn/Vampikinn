@@ -1,7 +1,8 @@
 ### Olá eu sou a Eduarda!!
 ---
 
-![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida's&show_icons=true&theme=tokyonight)
+
 
 
 ► Conhecimentos: Java, HTML, computação gráfica e banco de dados
