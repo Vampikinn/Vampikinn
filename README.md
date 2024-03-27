@@ -1,7 +1,7 @@
 ### Olá eu sou a Eduarda!!
 ---
 
-![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=dark)
+![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=dracula)
 
 
 
