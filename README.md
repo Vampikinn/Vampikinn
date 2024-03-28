@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahermannalmeida&theme=tokyonight)
+![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahermannalmeida&theme=cobalt)
 
 ## Minhas habilidades:
 
