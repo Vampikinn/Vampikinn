@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)
 
-![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahermannalmeida&theme=cobalt)
 
+![eduardahermannalmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardahermannalmeida&show_icons=true&theme=cobalt) <a> <img height=195 width=540 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardahermannalmeida&theme=cobalt" alt="eduardahermannalmeida's Language stats" />
+</a>
 ## Minhas habilidades:
 
 **Linguagens**
@@ -21,6 +22,6 @@
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-  
+
 
 
